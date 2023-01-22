@@ -1,0 +1,177 @@
+{
+"balance": 
+    {
+    "withdraw": 2923,
+    "deposit": 6320
+    },
+    
+
+"card": [
+    {
+    "number": "5621 1568 1523 1548",
+    "amount": 9523.00,
+    "icon": "fa-brands fa-cc-mastercard"
+    },
+    {
+    "number": "5621 1568 1523 1548",
+    "amount": 3223.00,
+    "icon": "fa-brands fa-cc-mastercard"
+    },
+    {
+    "number": "5621 1568 1523 1548",
+    "amount": 6553.00,
+    "icon": "fa-brands fa-cc-mastercard"
+    }
+],
+
+"days": [
+    {
+    "name": "Lunes"
+    },
+    {
+    "name": "Martes"
+    },
+    {
+    "name": "Miercoles"
+    },
+    {
+    "name": "Jueves"
+    },
+    {
+    "name": "Viernes"
+    },
+    {
+    "name": "Sabado"
+    },
+    {
+    "name": "Domingo"
+    }
+],
+
+"balance1": [
+    {
+    "deposit": 2,
+    "withdraw": 1
+    },
+    {
+    "deposit": 4,
+    "withdraw": 2
+    },
+    {
+    "deposit": 6,
+    "withdraw": 3
+    },
+    {
+    "deposit": 8,
+    "withdraw": 4
+    },
+    {
+    "deposit": 2,
+    "withdraw": 5
+    },
+    {
+    "deposit": 3,
+    "withdraw": 2
+    },
+    {
+    "deposit": 7,
+    "withdraw": 5
+    }
+],
+
+"buttonsAccount": [
+    {
+    "name": "Home",
+    "icon": "fa-solid fa-house-chimney"
+    },
+    {
+    "name": "Wallet",
+    "icon": "fa-solid fa-wallet"
+    },
+    {
+    "name": "Deposit-withdraw",
+    "icon": "fa-solid fa-money-check-dollar"
+    },
+    {
+    "name": "Transfer",
+    "icon": "fa-solid fa-money-bill-transfer"
+    },
+    {
+    "name": "Pay Service",
+    "icon": "fa-solid fa-hand-holding-dollar"
+    },
+    {
+    "name": "Phone Recharge",
+    "icon": "fa-solid fa-mobile"
+    },
+    {
+    "name": "My iuPayme Card",
+    "icon": "fa-solid fa-credit-card"
+    },
+    {
+    "name": "Movements",
+    "icon": "fa-solid fa-chart-line"
+    }
+],
+
+"buttonsUser": [
+    {
+    "name": "Sub-Accounts",
+    "icon": "fa-solid fa-user"
+    },
+    {
+    "name": "Favorite contacts",
+    "icon": "fa-solid fa-address-book"
+    },
+    {
+    "name": "Chat",
+    "icon": "fa-solid fa-message"
+    }
+],
+
+"transactions": [
+    { "id": 1204400, "transferType": "Deposit", "user": "Juan Pérez", "amount": 100, "date": "01/01/2021"
+    },
+    { "id": 2455055, "transferType": "Withdraw", "user": "Maria García", "amount": 50, "date": "01/02/2021"
+    },
+    { "id": 3445550, "transferType": "Deposit", "user": "Carlos López", "amount": 75, "date": "01/03/2021"
+    },
+    { "id": 4422200, "transferType": "Deposit", "user": "Ana Sánchez", "amount": 200, "date": "01/04/2021"
+    },
+    { "id": 5444520, "transferType": "Withdraw", "user": "Pedro Martín", "amount": 25, "date": "01/05/2021"
+    }
+],
+
+"productsList": [
+    {
+        "id": 1,
+        "productName": "Stella ",
+        "productCode": "213124",
+        "productQuantity": 12,
+        "productImg": "string"
+    },
+    {
+        "id": 2,
+        "productName": "Artois",
+        "productCode": "23244",
+        "productQuantity": 22,
+        "productImg": "string"
+    },
+    {
+        "id": 3,
+        "productName": "Stella Artois",
+        "productCode": "213124",
+        "productQuantity": 43,
+        "productImg": "string"
+    },
+    {
+        "id": 4,
+        "productName": "Stelois",
+        "productCode": "213124",
+        "productQuantity": 54,
+        "productImg": "string"
+    }
+]
+
+}
+
